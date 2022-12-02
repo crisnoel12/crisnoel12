@@ -2,7 +2,7 @@
 
 Software Engineer based in the Philippines, specializing in Frontend Development. 
 
-Worked with clients such as NASA 👨‍🚀, PG&E ⛽&⚡, Japan's Nuclear Regulatroy Authority ☢️. 
+Worked with clients such as NASA 👨‍🚀, PG&E ⛽&⚡, Japan's Nuclear Regulatory Authority ☢️. 
 
 My speciality is in the Frontend, but I also like to practice Backend and DevOps skills in my spare time.
 
