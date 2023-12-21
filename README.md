@@ -1,6 +1,6 @@
 # Cris N. Cancino
 
-Software Engineer based in the Philippines, specializing in Frontend Development. 
+Web Developer based in the Philippines, specializing in Frontend Development. 
 
 Worked with clients such as NASA 👨‍🚀, PG&E ⛽&⚡, Japan's Nuclear Regulatory Authority ☢️. 
 
